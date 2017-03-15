@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/sunrongya/ratelimit"
-	"github.com/sunrongya/ratelimit/internal/clock"
+	"github.com/uber-go/ratelimit/internal/clock"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/uber-go/atomic"
