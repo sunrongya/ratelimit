@@ -1,4 +1,4 @@
-package: github.com/ratelimit
+package: github.com/uber-go/ratelimit
 import: []
 testImport:
 - package: github.com/stretchr/testify
