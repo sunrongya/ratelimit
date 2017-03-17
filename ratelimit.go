@@ -24,7 +24,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/uber-go/ratelimit/internal/clock"
+	"github.com/sunrongya/ratelimit/internal/clock"
 )
 
 // Note: This file is inspired by:
